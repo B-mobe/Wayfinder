@@ -1,0 +1,27 @@
+## Interface: 11508
+## Title: |cff3FE0B5Wayfinder|r
+## Notes: Wayfinder Development Build
+## Author: Bran & ChatGPT
+## Version: 0.0.2-dev
+## SavedVariables: WayfinderDB
+
+Wayfinder.lua
+
+Core/Logger.lua
+Core/Init.lua
+Core/SlashCommands.lua
+
+Dev/Config.lua
+
+UI/Widgets/BaseWidget.lua
+
+UI/Windows/Window.lua
+
+UI/Constants.lua
+
+UI/Widgets/Header.lua
+UI/Widgets/Divider.lua
+UI/Widgets/Section.lua
+UI/Widgets/TreeItem.lua
+
+UI/Windows/AdventureWindow.lua
